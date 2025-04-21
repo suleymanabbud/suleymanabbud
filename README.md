@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Suleiman</h1>
 <h3 align="center">Software engineer from syria</h3>
 
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/320adecddeda15493e01a53099d0e235ced91c26346d1e3bcf7c9bf4890b8169/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6176656e746f2e676966](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
-">
+[<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/320adecddeda15493e01a53099d0e235ced91c26346d1e3bcf7c9bf4890b8169/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6176656e746f2e676966](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
+">](url)
 
 - 🌱 I’m currently learning **Data science and machine learning**
 
